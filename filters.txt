@@ -21746,3 +21746,4 @@ epson.com,americanbar.org,3mpolska.pl,bosch-professional.com,cisco.com,command.p
 @@||nf.pl/js/libs/cookiesDirective.js$script
 overdrive.com###bkgOverlay
 @@||cdn.nice.org.uk/cookie-banner/cookie-banner.min.js$script
+doodle.com##.tlqhcwmsepvy
